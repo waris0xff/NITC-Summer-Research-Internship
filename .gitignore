@@ -1,0 +1,7 @@
+# MATLAB and Simulink autosave/temp files
+*.asv
+*.autosave
+*.m~
+slprj/
+*.slxc
+*.mex*
